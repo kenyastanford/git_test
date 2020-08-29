@@ -1,0 +1,1 @@
+This is Kenya's first git project!
